@@ -45,7 +45,11 @@ This repo is the public issue tracker for **Zero**.
 
 ## 📸 Preview
 
-> Coming soon: screenshots and dashboard walkthrough
+![Zero App](0/zero-01.png)
+![Zero Login](0/zero-02.png)
+![Zero Vaults](0/zero-03.png)
+![Zero Tables](0/zero-04.png)
+![Zero Inside Table](0/zero-05.png)
 
 ---
 
